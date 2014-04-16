@@ -1,0 +1,1 @@
+$(function(){$("#datetimepicker1").datetimepicker({language:"pt-BR"});$.fn.datetimepicker.defaults={maskInput:!0,pickDate:!0,pickTime:!0,pick12HourFormat:!0,pickSeconds:!0,startDate:-Infinity,endDate:Infinity}});
